@@ -14,7 +14,7 @@ In this lab you have learned about multiplexers and demultiplexers.
 ## Names
 
 ## Summary
-
+during the lab we implemented both a multiplexer and a demultiplexer, while using tertiary logic and 
 ## Lab Questions
 
 ### In plain English describe the function and use of a multiplexer.
