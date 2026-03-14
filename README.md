@@ -14,7 +14,7 @@ In this lab you have learned about multiplexers and demultiplexers.
 ## Names
 
 ## Summary
-during the lab we implemented both a multiplexer and a demultiplexer, while using tertiary logic and 
+during the lab we implemented both a multiplexer and a demultiplexer, while using ternary logic and sets. In thins lab I learned how to write conditional statements in verilog. I learned ternary statements is a synonym for conditionals, I learned how to handle sets or groups of inputs better, instead of writeing a new line for each index of each input I learned how to
 ## Lab Questions
 
 ### In plain English describe the function and use of a multiplexer.
